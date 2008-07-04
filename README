@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2282
+
+Syntax highlighting for the Brook stream programming language, a C-like language with extensions for use with GPUs.  See graphics.stanford.edu/projects/brookgpu/ 
+
+The latest version can be found at http://github.com/rbonvall/vim-scripts/tree/master/syntax/brook.vim ; patches are welcome.
